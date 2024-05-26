@@ -1,7 +1,12 @@
-** Written in HTML ** 
+# a mini biolink project.
+you can use this project for youselfs! 
+fork and credit me at the bottom of the page. 
 
+# coding side
+written in html or .js, not really sure because im jus starting.
 
+# credits
+@rights4a
 
-********* RIGHTS4A BIOLINK CODE. USE THIS FOR YOUR OWN BIOLINK PROJECTS *************
-
-**** MAKE SURE TO CREDIT ME @RIGHTS4A *********
+# copyright?
+no copyright, just credit me and it will be fine by me :)
