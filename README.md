@@ -1,0 +1,7 @@
+** Written in HTML ** 
+
+
+
+********* RIGHTS4A BIOLINK CODE. USE THIS FOR YOUR OWN BIOLINK PROJECTS *************
+
+**** MAKE SURE TO CREDIT ME @RIGHTS4A *********
